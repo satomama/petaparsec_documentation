@@ -1,4 +1,4 @@
-readthedocs-sphinx-search
+PetaParsec Documentation
 =========================
 
 |pypi| |docs| |license| |build-status|
